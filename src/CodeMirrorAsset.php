@@ -29,7 +29,6 @@ class CodeMirrorAsset extends AssetBundle
         'addon/hint/show-hint.js',
         'addon/hint/html-hint.js',
         'addon/hint/xml-hint.js',
-        'addon/format/formatting.js',
     ];
 
     public $css = [
