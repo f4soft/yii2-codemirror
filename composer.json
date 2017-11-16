@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "f4soft\\yii2\\codemirror\\": "src"
+            "f4soft\\codemirror\\": "src"
         }
     }
 }
