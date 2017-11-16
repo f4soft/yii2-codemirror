@@ -10,6 +10,8 @@
         "widget"
     ],
     "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "authors": [{
             "name": "f4soft",
             "email": "f4soft@gmail.com"
@@ -21,7 +23,7 @@
     },
     "minimum-stability": "dev",
     "require": {
-        "yiisoft/yii2": "~2.0.0",
+        "yiisoft/yii2": "^2.0",
         "npm-asset/codemirror": "~5.0.0"
     },
     "autoload": {
